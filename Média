@@ -6,3 +6,5 @@ N4 = float(input("Digite o valor da quarta nota "))
 Media = (N1+N2+N3+N4)/4
 
 print("A média do aluno é: ", Media)
+
+

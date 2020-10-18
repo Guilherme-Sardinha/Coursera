@@ -5,4 +5,4 @@ Valor = input("Digite o valor da fatura: ")
 
 print("Olá, ", Nome)
 print("A sua fatura convencimento em ", Dia, " de ", Mes, " no valor de R$ ",Valor, " está fechada.")
-######
+######oo

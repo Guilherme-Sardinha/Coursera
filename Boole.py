@@ -8,7 +8,7 @@ delta = b ** 2 - 4 * a * c
 
 if delta == 0:
     raiz1 = ((-b + math.sqrt(delta))) / (2 * a)
-    print("A raiz deta equação é ", raiz1 )
+    print("A raiz deta equação é", raiz1 )
 else:
     if delta < 10:
         print("esta equação não possui raízes reais")

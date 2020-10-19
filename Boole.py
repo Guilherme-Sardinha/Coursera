@@ -16,8 +16,6 @@ else:
         raiz1 = ((-b + math.sqrt(delta))) / (2 * a)
         raiz2 = ((-b - math.sqrt(delta))) / (2 * a)
         if raiz1 < raiz2:
-            print("1° raiz = ", raiz1)
-            print("2° raiz = ", raiz2)
+            print("1° raiz = ", raiz1, raiz2)
         else:
-            print("1° raiz = ", raiz2)
-            print("2° raiz = ", raiz1)
+            print("1° raiz = ", raiz2, raiz1)

@@ -1,4 +1,4 @@
-#verifica se existem dois digitos repetidos
+#Soma os digitos
 valor = int(input("Digite um valor "))
 cont = len(str(valor))
 mostra = 0

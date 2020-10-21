@@ -1,5 +1,5 @@
 #Soma os digitos
-valor = int(input("Digite um valor "))
+valor = int(input("Digite um número inteiro: "))
 cont = len(str(valor))
 mostra = 0
 acum = 0

@@ -15,7 +15,7 @@ while 0 != cont:
     #coloquei um segundo contador para contar o número de vezes que um digito se repetia
     if mostra == mostra2:
         cont2 = cont2 + 1
-if cont2 >= 1:
+if cont2 >= 1 and cont != 1:
     print("sim")
 else:
     print("não")

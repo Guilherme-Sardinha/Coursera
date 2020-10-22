@@ -16,4 +16,6 @@ while 0 != cont:
     if mostra == mostra2:
         cont2 = cont2 + 1
 if cont2 >= 1:
-    print("és")
+    print("sim")
+else:
+    print("não")

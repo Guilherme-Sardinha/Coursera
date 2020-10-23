@@ -1,11 +1,7 @@
-N = (int(input("Digite um número: ")))
+def func (x):
+    return x + 1
 
-cont = 0
-sucesso = 0
-while cont < 1000:
-    cont = cont + 1
-    if N % cont == 0:
-        sucesso = sucesso + 1
+def test_answer():
+    assert func(3) == 5
 
-if sucesso > 2:
-    print ("não")
+

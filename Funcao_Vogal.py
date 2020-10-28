@@ -9,6 +9,4 @@ def Vogal(X):
 
 
 
-X = str(input("Digite uma letra "))
 
-print(Vogal(X))

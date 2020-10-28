@@ -17,7 +17,3 @@ def Maior_primo(X):
             cont = 1000
 
 
-X = 0
-while X < 2:
-    X = int(input("digite o número "))
-print(Maior_primo(X))

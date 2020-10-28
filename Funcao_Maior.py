@@ -9,6 +9,4 @@ def Maior(X, Y):
 X = int(input("Digite o primeiro número "))
 Y = int(input("Digite o segundo número "))
 
-Maior(X, Y)
-
 print(Maior(X, Y))
